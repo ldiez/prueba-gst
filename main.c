@@ -18,6 +18,7 @@ int Feature1(int i)
 
 int main()
 {
+  return 0;
   int ret = 0;
   for (int i = 1; i <= 10; ++i){
 
