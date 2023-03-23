@@ -1,4 +1,4 @@
 # prueba-gst
 
 
-Descakusadghfuahsdfripción aquí
+Descipción aquí
